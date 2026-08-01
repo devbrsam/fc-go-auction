@@ -1,0 +1,6 @@
+.git
+.gitignore
+.DS_Store
+cmd/auction/.env
+coverage.out
+README.md
